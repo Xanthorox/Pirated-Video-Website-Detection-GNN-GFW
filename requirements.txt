@@ -1,0 +1,9 @@
+numpy
+torch
+networkx
+matplotlib
+scikit-learn
+chars2vec
+keras
+pandas
+dgl
